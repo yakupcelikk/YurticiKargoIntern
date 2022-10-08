@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/AbstractClasses/AbstractClasses.iml" filepath="$PROJECT_DIR$/DemoProjects/AbstractClasses/AbstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/AbstractDemo/AbstractDemo.iml" filepath="$PROJECT_DIR$/DemoProjects/AbstractDemo/AbstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/ArrayListDemo/ArrayListDemo.iml" filepath="$PROJECT_DIR$/DemoProjects/ArrayListDemo/ArrayListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/Attribute/Attribute.iml" filepath="$PROJECT_DIR$/DemoProjects/Attribute/Attribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JdbcDemo/JdbcDemo.iml" filepath="$PROJECT_DIR$/JDBC/JdbcDemo/JdbcDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/Overriding/Overriding.iml" filepath="$PROJECT_DIR$/DemoProjects/Overriding/Overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/PolymorphismDemo/PolymorphismDemo.iml" filepath="$PROJECT_DIR$/DemoProjects/PolymorphismDemo/PolymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/StringBufferBuilderExamples/StringBufferBuilderExamples.iml" filepath="$PROJECT_DIR$/DemoProjects/StringBufferBuilderExamples/StringBufferBuilderExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringProjects/StringProjects.iml" filepath="$PROJECT_DIR$/StringProjects/StringProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/TasitKrediHesaplama/TasitKrediHesaplama.iml" filepath="$PROJECT_DIR$/DemoProjects/TasitKrediHesaplama/TasitKrediHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/StajTask1/Task1/Task1.iml" filepath="$PROJECT_DIR$/DemoProjects/StajTask1/Task1/Task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/StajTask1/Task1-HashMap/Task1-HashMap.iml" filepath="$PROJECT_DIR$/DemoProjects/StajTask1/Task1-HashMap/Task1-HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/StajTask1/Task2StringClass/Task2StringClass.iml" filepath="$PROJECT_DIR$/DemoProjects/StajTask1/Task2StringClass/Task2StringClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/arrayListTypeDemo/arrayListTypeDemo.iml" filepath="$PROJECT_DIR$/DemoProjects/arrayListTypeDemo/arrayListTypeDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/arrayListWithClass/arrayListWithClass.iml" filepath="$PROJECT_DIR$/DemoProjects/arrayListWithClass/arrayListWithClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/classes/classes.iml" filepath="$PROJECT_DIR$/DemoProjects/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/Tekrarlar/dataTypes/dataTypes.iml" filepath="$PROJECT_DIR$/DemoProjects/Tekrarlar/dataTypes/dataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/exceptionHandling/exceptionHandling.iml" filepath="$PROJECT_DIR$/DemoProjects/exceptionHandling/exceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/generics/generics.iml" filepath="$PROJECT_DIR$/DemoProjects/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/StajTask1/getterSetterArrayList/getterSetterArrayList.iml" filepath="$PROJECT_DIR$/DemoProjects/StajTask1/getterSetterArrayList/getterSetterArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/hashMapDemo/hashMapDemo.iml" filepath="$PROJECT_DIR$/DemoProjects/hashMapDemo/hashMapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/DemoProjects/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/DemoProjects/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/interfaceDemo/interfaceDemo.iml" filepath="$PROJECT_DIR$/DemoProjects/interfaceDemo/interfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/DemoProjects/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/jdbcIntro/jdbcIntro.iml" filepath="$PROJECT_DIR$/DemoProjects/jdbcIntro/jdbcIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/jdbcIntro/jdbcIntro1.iml" filepath="$PROJECT_DIR$/JDBC/jdbcIntro/jdbcIntro1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/kardesSayi/kardesSayi.iml" filepath="$PROJECT_DIR$/DemoProjects/kardesSayi/kardesSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/Tekrarlar/localVariables/localVariables.iml" filepath="$PROJECT_DIR$/DemoProjects/Tekrarlar/localVariables/localVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/DemoProjects/methodOverloading/methodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/methods2/methods2.iml" filepath="$PROJECT_DIR$/DemoProjects/methods2/methods2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/mukemmelSayi/mukemmelSayi.iml" filepath="$PROJECT_DIR$/DemoProjects/mukemmelSayi/mukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiDimensionalArrays/multiDimensionalArrays.iml" filepath="$PROJECT_DIR$/multiDimensionalArrays/multiDimensionalArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/Tekrarlar/packageDemo/packageDemo.iml" filepath="$PROJECT_DIR$/DemoProjects/Tekrarlar/packageDemo/packageDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/packagesDemo/packagesDemo.iml" filepath="$PROJECT_DIR$/DemoProjects/packagesDemo/packagesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/primeNumber/primeNumber.iml" filepath="$PROJECT_DIR$/DemoProjects/primeNumber/primeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/reCapDemo/reCapDemo.iml" filepath="$PROJECT_DIR$/DemoProjects/reCapDemo/reCapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/readingFileDemo/readingFileDemo.iml" filepath="$PROJECT_DIR$/DemoProjects/readingFileDemo/readingFileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recap/recap.iml" filepath="$PROJECT_DIR$/recap/recap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/repositoryDemo/repositoryDemo.iml" filepath="$PROJECT_DIR$/DemoProjects/repositoryDemo/repositoryDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/sayiBulma/sayiBulma.iml" filepath="$PROJECT_DIR$/DemoProjects/sayiBulma/sayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/StajTask1/setGetTest/setGetTest.iml" filepath="$PROJECT_DIR$/DemoProjects/StajTask1/setGetTest/setGetTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/staticDemo/staticDemo.iml" filepath="$PROJECT_DIR$/DemoProjects/staticDemo/staticDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchProject/switchProject.iml" filepath="$PROJECT_DIR$/switchProject/switchProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/threadingDemo1/threadingDemo1.iml" filepath="$PROJECT_DIR$/DemoProjects/threadingDemo1/threadingDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/throwDemo/throwDemo.iml" filepath="$PROJECT_DIR$/DemoProjects/throwDemo/throwDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled2/untitled2.iml" filepath="$PROJECT_DIR$/untitled2/untitled2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoProjects/workingWithFiles/workingWithFiles.iml" filepath="$PROJECT_DIR$/DemoProjects/workingWithFiles/workingWithFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yako staj projeler.iml" filepath="$PROJECT_DIR$/.idea/yako staj projeler.iml" />
+    </modules>
+  </component>
+</project>

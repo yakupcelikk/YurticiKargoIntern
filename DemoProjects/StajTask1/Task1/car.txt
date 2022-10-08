@@ -1,0 +1,7 @@
+
+mercedes,1986,Blue,1.5,2000.0
+Volvo,2004,Red,2.0,2500.0
+Ford,2009,Black,3.0,3000.0
+Bmw,2013,White,2.5,3500.0
+Fiat,2014,Grey,1.6,1750.0
+Seat,2015,Green,1.4,1250.0
